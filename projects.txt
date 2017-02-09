@@ -1,0 +1,43 @@
+Projects:
+
+Spring MVC Cloud Foundry Application - Synchronisation Service (Java)
+pair programming project with john williams
+experimented with cloud foundry and spring frameworks
+wrote components that shifted data to and from different applications that were hosted in different environments
+wrote a spring-boot poc that uses hibernate and mvc
+
+JVM Application - Web-Socket Emitter (Java)
+reasearched the websocket protocol
+gathered class requirements from the team
+defined the class requirements, javadoc and unit tests
+wrote the class
+integrated the class with the simulator
+
+WebApplication - Replay Screen (JavaScript)
+took requirements from the team
+used existing pages to inform my building of the replay screen
+implemented input validation on the controls
+implemented data saving and retrieving on the page
+implemented a table with addable and removable elements
+implemented a to and from navigation
+
+Mac OSX Application – Animation Retargeter (C++ and OpenGL)
+This application maps a animation from one model to another regardless of the differences in skeletons.
+Wrote a retargeting algorithm that maps the movements from one 3d model to another.
+Wrote a small draw engine to handle the rendering of both animated and static objects.
+Used SDL to create an OpenGL context.
+Developed a GUI using the WxWidgets library.
+Developed a seperate GUI using the Qt library?
+
+JVM Application – Social Network Program with Client/Server/Database Architecture(Java)
+Worked as part of a team. 
+Designed a database using EERD. 
+Implemented the database using PSQL
+Wrote a database manager for the program which handled the storage and retrieval of objects to/from the database.  
+Made use of SVN for backup and team collaboration.
+
+Windows Application – Open Source Computer Game Modification(C++) 
+Created and integrated new classes some of which derive from pre-existing base classes.  
+Expanded the game’s functionality by adding, removing and modifying functions in existing classes. 
+For example: 
+Created a "Squad" class that arranges a set number of characters into a group. Following this, it appoints a leader for the group and then makes the rest of the characters follow that leader. It also handles events such as the death of the current leader and the appointment of a new one.

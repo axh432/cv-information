@@ -1,0 +1,91 @@
+===========
+Skills
+===========
+
+Java:
+--------
+- During his masters degree was given formal training in the JAVA programming language.
+
+- TDD Has experience in working in test driven development, testing being of strong emphasis during degree and of strong emphasis during time spent at SAP.
+
+- Has written small java programs in his free time - examples could be a diet calculator and several iterations of a parsing application.
+ 
+- Has programmed in java through time at SAP and gained experience using Java EE and apache libraries.
+
+- Has experience in using build tools such as maven and gradle.
+
+
+JavaScript:
+------------
+- Has gained experience in writing java script front ends for server programs. Typical setup would be a Spring boot application with a controller that would server up the webapplication via a rest call. 
+
+- Used the sapui5 library to write front end web applications
+
+
+Spring Framework/Cloud Foundry/Server-Side Development:
+------------------
+- Has experience in using Spring MVC and Spring boot in order to create cloud applications for cloud foundry. Typical applications would consist of controllers, services and a database backend.
+
+- Has experience using Hibernate and JDBC(both at university and during work)
+
+- Has experience deploying applications to cloud foundry
+
+
+C++:
+-----------------
+- Undertook a large C++ program as the final project of his masters program. 
+
+- Has academic experience of C and C++, was taught how to deal with the difficulties that come along 
+with language such as allocating and freeing memory and debugging without the asstance of a VM.
+
+- Has experience in using C++ prior to starting his masters degree.
+
+
+Qt:
+----
+- has experience in writing basic and dynamic UIs in Qt
+- is currently porting final year project to Qt
+
+
+OpenGL:
+--------
+- has experience in using OpenGL and used OpenGL in final project for masters degree.
+- wrote a draw engine for project
+
+
+PSQL:
+------------------
+- Designed databases using EERD during my degree.
+- Made use of normal forms during my degree. 
+- Implemented, modified and queried databases in PSQL.
+- has tried different flavours of SQL during my time at SAP 
+
+
+Object-Oriented program development:
+------------------------------------
+- Experience in writing, testing, debugging, maintaining and modifying software. 
+- Tries to keep abreast of best practices for programming in Java, C++ and JavaScript.
+- Good understanding of object-oriented design.
+- design patterns?
+
+
+Problem Solving/Analytical Thinking:
+------------------------------------
+- has tenacity and an enjoys dealing with difficult problems.
+- able to proactively probe, test and eventually fix problems encountered during software development and testing.
+
+
+Writen and Verbal Communication skills / team work / agile:
+-----------------------------------------
+- Has written about technically complex ideas in project reports and dissertations. 
+- Has articulated complex ideas to colleagues during team projects and informally during topics of technical interest.
+- Has experience of developing software in a team
+- has experience of developing software in an agile scrum team
+
+
+Linux/Git/Tools:
+------
+- has basic competency with linux
+- basic compentency with git and version control
+- experience with maven
+- experience with bash scripting

@@ -1,0 +1,29 @@
+Employment History 
+
+November 2015 – March 2016 SAP – Associate Software Developer
+spent time with a scrum team learning to develop software in an agile, iterative way
+spent time learning to develop in a test driven way
+spent time learning to come up with designs for a program as a team
+spent time writing components for a program (a simulator) in java
+I wrote a simple simulator class that had a sensor that produced messages on a tick.
+I wrote a websocket emitter class which sent messages via the websocket protocol to an endpoint
+I wrote a replay simulator page for in javascript and sap ui5 for the simulator
+I wrote a small web application with sap fiori ui5 that take information and displays it in two graphs
+I have had time to pair program with john williams
+
+May 2014 – September 2014 TD Direct Investing – Customer Service Advisor 
+Dealt with customer transactions over the phone.
+Resolved customer issues and complaints.
+
+March 2014 Graticule - Software Development Experience
+Experimented with GUI APIs such as Win32 and WinForms in order to create user interfaces.  
+Studied basic data structures as well as software design and testing.
+
+September 2013 – January 2014 W. H. Smiths Leeds – Christmas Temp
+Worked to a tight deadline.  
+Helped track down items and customer orders within the store. 
+Handled multiple tasks simultaneously, especially during the busy periods such as Christmas. 
+ 
+2012 The Village Hotel Leeds – Waiter 
+Used organisational skills to ensure that patrons were allocated to suitable tables and recorded their orders correctly. 
+Used the restaurant's computer system effectively to send orders and information to the kitchen staff. 
